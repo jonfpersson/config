@@ -337,7 +337,7 @@ draw_bold_text_with_bright_colors: false
 #semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"
 
 # When set to `true`, selected text will be copied to the primary clipboard.
-#save_to_clipboard: false
+save_to_clipboard: false
 
 #cursor:
 # Cursor style
@@ -396,12 +396,6 @@ draw_bold_text_with_bright_colors: false
 #   - (macOS) /bin/bash --login
 #   - (Linux/BSD) user login shell
 #   - (Windows) powershell
-#shell:
-  #program: /bin/tmux
-  #args:
-  #  - attach 
-  #  - -t 0
-
 shell:
   program: /bin/zsh
   args:
