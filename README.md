@@ -10,5 +10,5 @@ My terminal configuration, complete with different plugins and themes.
 ## Alacritty
 Configuration for opening tmux correctly and some light theme settings.
 
-## Alacritty Set-up
+## Set-up
 If you want to know how to set this up, I recommend you to check of my blag at https://jonfpersson.github.io/Code-Crust
