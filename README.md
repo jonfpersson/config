@@ -11,4 +11,4 @@ My terminal configuration, complete with different plugins and themes.
 Configuration for opening tmux correctly and some light theme settings.
 
 ## Set-up
-If you want to know how to set this up, I recommend you to check of my blag at https://jonfpersson.github.io/Code-Crust
+If you want to know how to set this up, I recommend you to check of my blog at https://jonfpersson.github.io/Code-Crust
