@@ -56,6 +56,8 @@ cd $ZSH_CUSTOM/plugins && git clone https://github.com/zsh-users/zsh-syntax-high
 cd $ZSH_CUSTOM/plugins && git clone https://github.com/zsh-users/zsh-autosuggestions.git
 cd $ZSH_CUSTOM/plugins && git clone https://github.com/zsh-users/zsh-completions.git
 cd $ZSH_CUSTOM/plugins && git clone https://github.com/djui/alias-tips.git
-
+sudo apt-get install -y wget
+wget https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Hack/Regular/HackNerdFont-Regular.ttf
+cp HackNerdFont-Regular.ttf ~/.fonts/
 git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf && ~/.fzf/install
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/themes/powerlevel10k
